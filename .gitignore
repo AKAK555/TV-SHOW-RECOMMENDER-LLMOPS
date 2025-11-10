@@ -1,0 +1,4 @@
+venv/
+logs/
+TVSHOW_RECOMMENDER.egg-info/
+.env

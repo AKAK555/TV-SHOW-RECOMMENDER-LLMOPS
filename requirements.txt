@@ -1,0 +1,27 @@
+# Core
+langchain>=0.0.170
+
+# Groq LLM integration
+langchain-groq>=0.0.9
+
+# Community integrations (only if you need specific community vectorstores)
+langchain-community>=0.3.19
+
+# Vector DB
+chromadb>=0.3.18
+
+# ML/embeddings
+sentence-transformers>=2.2.2
+transformers>=4.33.2
+tensorflow==2.20.0
+keras>=2.12.0
+
+# UI / env
+streamlit==1.51.0
+python-dotenv>=1.0.0
+
+# other utils
+pydantic>=2.7.2
+langgraph>=0.2.4
+protobuf>=5.0.0,<6.0.0
+googleapis-common-protos>=1.72.0
