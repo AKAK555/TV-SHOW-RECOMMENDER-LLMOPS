@@ -2,3 +2,4 @@ venv/
 logs/
 TVSHOW_RECOMMENDER.egg-info/
 .env
+data\data.csv
